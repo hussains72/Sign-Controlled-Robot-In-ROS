@@ -35,5 +35,5 @@ python3 Hand_Gestur_Controlled_Robot.py {Finally run the code by navigating to d
 
 Or you can run code from any code editor.
 
-# RESULTS
+# Results
 
