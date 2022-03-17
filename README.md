@@ -37,3 +37,16 @@ Or you can run code from any code editor.
 
 # Results
 
+HAND_GESTURE_DETECTION 
+
+![](https://github.com/ash-S26/Hand_Gesture_Controlled_Robot/blob/main/Results/hand_detection.gif)
+
+CONTROLLING ROBOT IN EMPTY WORLD WITH HAND
+
+ ![](https://github.com/ash-S26/Hand_Gesture_Controlled_Robot/blob/main/Results/hand_gesture_control_robot_empty_world.gif)
+ 
+ CONTROLLING ROBOT IN WAFFLE WORLD WITH HAND
+ 
+ 
+  ![](https://github.com/ash-S26/Hand_Gesture_Controlled_Robot/blob/main/Results/hand_gesture_control_robot_waffle_world.gif)
+
