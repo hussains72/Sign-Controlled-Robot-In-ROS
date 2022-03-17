@@ -4,3 +4,5 @@ This project is about controlling robot motion with hand gestures which have com
 Detection of Hand_Gesture using opencv library.
 
 Integrating Hand_Gesture to publish commands to robot.
+
+# Algorithm
